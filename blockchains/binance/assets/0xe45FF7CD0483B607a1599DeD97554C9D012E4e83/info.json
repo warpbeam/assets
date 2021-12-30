@@ -1,6 +1,6 @@
  "name": "WarpBeam",
     "website": "https://warpbeam.io",
-    "description": "BUSD is a stablecoin issued by Paxos in partnership with Binance.",
+    "description": "WarpBeam token as a currency for the warpbeam platform",
     "explorer": "https://bscscan.com/token/0xe45ff7cd0483b607a1599ded97554c9d012e4e83",
     "type": "BEP20",
     "symbol": "WBM",
